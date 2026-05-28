@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdonnect",
+        "uuid": 41364162,
+        "checksum": "6lhld"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
